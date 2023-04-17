@@ -1,4 +1,4 @@
-[![Catalyst](/profile/cover.png)](https://catalyst.exchange)
+[![Catalyst](/profile/logo.svg)](https://catalyst.exchange)
 
 ## Cross-chain Liquidity Layer for Modular Chains
 
