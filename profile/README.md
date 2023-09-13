@@ -1,6 +1,6 @@
 [![Catalyst](/profile/logo.svg)](https://catalyst.exchange)
 
-## Cross-chain Liquidity Layer for Modular Chains
+## The Cross-chain AMM to Connect Every Chain
 
 Catalyst is the permissionless liquidity layer for the modular future. Any new modular chain can use Catalyst to permissionlessly connect liquidity and swap with hubs like Ethereum and Cosmos.
 
